@@ -22,3 +22,5 @@ keywords = {Generative adversarial network, Convolutional neural network, Wetlan
 }
 
 
+### Ali Jamali, Masoud Mahdianpari, Fariba Mohammadimanesh, Saeid Homayouni, A deep learning framework based on generative adversarial networks and vision transformer for complex wetland classification using limited training samples, International Journal of Applied Earth Observation and Geoinformation, Volume 115, 2022, 103095, ISSN 1569-8432, https://doi.org/10.1016/j.jag.2022.103095.
+
